@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I'm Alas Jackson! :D
 
-<!--
-**desenvjackson/desenvjackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I'm a {backend, frontend and mobile/desktop} developer. 
 
-Here are some ideas to get you started:
+- [Development] - PHP, C#, Groovy, Java, ReactNative, ReactJS, Vue, TypeScript, JavaScript, NodeJS.
+- [Database] - Postgres, MySQL e SQLServer ( Adminstrator e Developer PL/SQl).
+- [AWS] - Elastic Beanstalk, EC2, S3, RDS e Route53.
+- [IoT] - Lora e MQTT.
+- [RAD] - ScriptCase.
+- [Others] 💻 - Experiences in the development of systems in the areas: Management, Control, Financials, Health, Online Sales, IoT, analysis and information for credit decisions and monitoring of vital signs via BLE.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Hugs
